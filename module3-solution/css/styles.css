@@ -1,0 +1,17 @@
+.nav-menu-item {
+  background-color: bisque;
+}
+
+#menu-title {
+  margin: 30px auto;
+}
+
+.food-type {
+  font-size: 24px;
+  margin: 15px auto;
+}
+
+.section {
+  background-color: bisque;
+  margin: 20px;
+}
